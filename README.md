@@ -110,7 +110,7 @@ int main()
 ```
 ## Output:
 
-![output](./ot1.PNG)
+![output](./ot1.png)
 
 ## Result:
 The implementation of Matrix Multiplication using GPU is done successfully  and the time taken is found to be 0.000037 seconds.
